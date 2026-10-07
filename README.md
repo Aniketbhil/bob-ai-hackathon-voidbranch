@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 Clinical Trial Eligibility Screener
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | VoidBranch |
+| **Track** | Pharma & Healthcare |
+| **Team Lead** | Aniket Bhil — aniketbhil99@gmail.com |
+| **Members** | Krehant Gajjar — krehantgajjar101106@gmail.com |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+coordinators manually screen 10-15 patients per day against complex inclusion/exclusion criteria, so 80% of trials miss enrolment deadlines.
 
 ---
 
